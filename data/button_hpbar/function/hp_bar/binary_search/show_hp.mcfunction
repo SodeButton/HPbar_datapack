@@ -18,4 +18,4 @@ execute if score @s button_hpbar.hp_raito matches 16 on passengers run data modi
 execute if score @s button_hpbar.hp_raito matches 17 on passengers run data modify entity @s CustomName set value '[{"text": "████████▊", "color": "green"},{"text": "▏▊█", "color": "dark_gray"}]'
 execute if score @s button_hpbar.hp_raito matches 18 on passengers run data modify entity @s CustomName set value '[{"text": "█████████", "color": "green"},{"text": "█", "color": "dark_gray"}]'
 execute if score @s button_hpbar.hp_raito matches 19 on passengers run data modify entity @s CustomName set value '[{"text": "█████████▊", "color": "green"},{"text": "▏▊", "color": "dark_gray"}]'
-execute if score @s button_hpbar.hp_raito matches 20 on passengers run data modify entity @s CustomName set value '[{"text": "██████████", "color": "green"}]'
+execute if score @s button_hpbar.hp_raito matches 20.. on passengers run data modify entity @s CustomName set value '[{"text": "██████████", "color": "green"}]'
